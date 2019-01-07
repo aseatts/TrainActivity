@@ -1,0 +1,19 @@
+{
+  "name": "trainscheduler",
+  "version": "1.0.0",
+  "description": "[Firebase database train scheduler](https://green64.github.io/Firebase-Train-Scheduler/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aseatts/TrainActivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aseatts/TrainActivity/issues"
+  },
+  "homepage": "https://github.com/aseatts/TrainActivity#readme"
+}
